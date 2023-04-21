@@ -23,12 +23,7 @@
   margin-top: 100vh; 
   
 display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column;
-   
-    padding: 0 1rem;
-    position: relative;
+    text-align: center;
 }
 
 .container {
