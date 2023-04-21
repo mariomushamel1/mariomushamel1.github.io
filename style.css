@@ -1,16 +1,18 @@
 
 .home{
+  min-height: 100vh;
+  width: 100vw;
   background-image: url("https://mariomushamel1.github.io/images/home_background.jpg");
   background-size: cover;
   background-size: cover;
-  height: 100vh;
 }
 
 .about{
+  min-height: 100vh;
+  width: 100vw;
   background-image: url("https://mariomushamel1.github.io/images/about_picture.jpg");
   background-size: cover;
   background-size: cover;
-  height: 100vh;
 }
 
 .container {
