@@ -54,7 +54,8 @@ display: flex;
     padding: 0 1rem;
     position: relative;
 
-    <a href="https://mariomushamel1.github.io/images/grubhub.jpg"><img src="https://www.grubhub.com/restaurant/romans-liquor--convenience-1529-n-la-brea-ave-los-angeles/2253210" alt="GrubHub"/></a>
+    <a href="https://www.grubhub.com/restaurant/romans-liquor--convenience-1529-n-la-brea-ave-los-angeles/2253210">
+    <img src="https://mariomushamel1.github.io/images/grubhub.jpg" alt="GrubHub"/></a>
 }
 
 .contact{
