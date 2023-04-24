@@ -42,8 +42,8 @@ display: flex;
 
 .service{
   background-image: url("https://mariomushamel1.github.io/images/outside_sign.jpg");
-  background-size: cover;
-  background-size: cover;
+  background-size: 50% 50%;
+  background-size: right bottom;
   height: 100vh; 
    
   
