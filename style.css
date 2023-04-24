@@ -77,6 +77,7 @@ display: flex;
 
 .container {
   font-family: Snell Roundhand, cursive;
+  color: red;
   max-width: 960px;
   margin: 0 auto;
   padding: 1rem;
