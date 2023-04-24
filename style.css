@@ -40,6 +40,22 @@ display: flex;
     position: relative;
 }
 
+.service{
+  background-image: url("https://mariomushamel1.github.io/images/about_picture2.jpg");
+  background-size: cover;
+  background-size: cover;
+  height: 100vh; 
+   
+  
+display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+    padding: 0 1rem;
+    position: relative;
+}
+
 .delivery{
   background-image: url("https://mariomushamel1.github.io/images/delivery_background.jpg");
   background-size: cover;
