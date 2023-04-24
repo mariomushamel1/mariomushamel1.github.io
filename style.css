@@ -68,7 +68,9 @@ display: flex;
   position: relative;
 }
 
-
+.delivery_img {
+height: 100px
+}
 
 
 
