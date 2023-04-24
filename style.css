@@ -54,17 +54,7 @@ display: flex;
     padding: 0 1rem;
     position: relative;
 
-    <div id="delivery_pics">
-  <a href="https://www.grubhub.com/restaurant/romans-liquor--convenience-1529-n-la-brea-ave-los-angeles/2253210">
-    <img src="https://github.com/mariomushamel1/mariomushamel1.github.io/blob/main/images/grubhub.jpg" alt="Grubhub" height="100" width="100">
-  </a>
-  <a href="https://postmates.com/store/romans-liquor/VQz8wYDCS3mistGuGkPGEg">
-    <img src="https://github.com/mariomushamel1/mariomushamel1.github.io/blob/main/images/Postmates.jpg" alt="Postmates" height="100" width="100">
-  </a>
-  <a href="https://www.ubereats.com/store/romans-liquor/VQz8wYDCS3mistGuGkPGEg">
-    <img src="https://github.com/mariomushamel1/mariomushamel1.github.io/blob/main/images/UberEats.jpg" alt="Uber Eats" height="100" width="100">
-  </a>
-</div>
+    
 
 }
 
