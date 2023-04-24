@@ -31,7 +31,7 @@
 }
   .text{
   display: flex;
-  align-items: left;
+  align-items: center;
   justify-content: center;
   flex-flow: row;
   text-align: left;
