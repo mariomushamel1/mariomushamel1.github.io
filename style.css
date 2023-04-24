@@ -55,9 +55,9 @@ display: flex;
     position: relative;
 
     #delivery_pics img {
-      width: 150px;
-      height: 150px;
-    }
+  width: 150px;
+  height: 150px;
+}
 
 }
 
