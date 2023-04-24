@@ -1,3 +1,3 @@
 # mariomushamel1.github.io
 
-My first unoffical small bisiness website 
+My first unoffical small business website 
