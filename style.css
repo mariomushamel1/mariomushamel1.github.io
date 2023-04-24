@@ -66,9 +66,9 @@
 }
 
 .delivery_img {
+display: flex;
 height: 150px;
-row-gap: 25px;
-column-gap: 25px;
+gap: 50px;
 }
 
 
