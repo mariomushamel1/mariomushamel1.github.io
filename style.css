@@ -62,13 +62,13 @@ display: flex;
   background-size: cover;
   height: 100vh; 
 
-  .image-grid {
+  .delivery_pics {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
 }
 
-.image-grid img {
+.delivery_pics {
   width: 100%;
   height: auto;
 }
