@@ -41,9 +41,9 @@ display: flex;
 }
 
 .service{
-  background-image: url("https://mariomushamel1.github.io/images/about_picture2.jpg");
-  background-size: cover;
-  background-size: cover;
+  background-image: url("https://mariomushamel1.github.io/images/outside_sign.jpg");
+  background-size:50%;
+  background-size: 50%;
   height: 100vh; 
    
   
