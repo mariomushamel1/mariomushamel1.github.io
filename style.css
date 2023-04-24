@@ -56,33 +56,25 @@ display: flex;
     position: relative;
 }
 
-.delivery{
+.delivery {
   background-image: url("https://mariomushamel1.github.io/images/delivery_background.jpg");
   background-size: cover;
-  background-size: cover;
   height: 100vh; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  text-align: center;
+  padding: 0 1rem;
+  position: relative;
 
   .delivery_pics {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 10px;
-}
-
-.delivery_pics {
-  width: 100%;
-  height: auto;
-}
-  
-  display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column;
-    text-align: center;
-    padding: 0 1rem;
-    position: relative;
-
-    
-
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    width: 100%;
+    height: auto;
+  }
 }
 
 
