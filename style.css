@@ -31,7 +31,7 @@
    
   
 display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: center;
     flex-flow: column;
     text-align: left;
