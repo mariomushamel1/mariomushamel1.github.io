@@ -23,6 +23,8 @@
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   }
 
+  
+
 .about{
   background-image: url("https://mariomushamel1.github.io/images/about_picture2.jpg");
   background-size: cover;
@@ -78,6 +80,9 @@ h1{
   font-size: 40px;
 }
 
+h3{
+  font-size: 15px;
+}
 
 .contact{
   background-image: url("https://mariomushamel1.github.io/images/contact_background.jpg");
