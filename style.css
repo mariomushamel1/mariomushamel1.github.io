@@ -78,6 +78,7 @@ display: flex;
 .container {
   font-family: 'Snell Roundhand', sans-serif;                                  
   color: red;
+  outline: black;
   max-width: 960px;
   margin: 0 auto;
   padding: 1rem;
