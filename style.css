@@ -54,6 +54,11 @@ display: flex;
     padding: 0 1rem;
     position: relative;
 
+    #delivery_pics img {
+      width: 150px;
+      height: 150px;
+    }
+
 }
 
 .contact{
