@@ -38,9 +38,10 @@
 }
 
 .service{
-  background-image: url("https://mariomushamel1.github.io/images/outside_sign.jpg");
+  background-image: url("https://mariomushamel1.github.io/images/contact_background.jpg");
   background-size: cover;
   height: 100vh; 
+  
 
   display: flex;
   align-items: center;
@@ -74,7 +75,7 @@ h2 {
 }
 
 h1{
-  font-size: 60px;
+  font-size: 40px;
 }
 
 
