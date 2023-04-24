@@ -1,12 +1,4 @@
-
 .home{
-  
-  .text-box {
-  background-color: white;
-  padding: 1rem;
-  border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-}
   
   background-image: url("https://mariomushamel1.github.io/images/home_background.jpg");
   background-size: cover;
@@ -23,6 +15,13 @@
   
  
 }
+
+.text-box {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
 
 .about{
   background-image: url("https://mariomushamel1.github.io/images/about_picture2.jpg");
@@ -67,15 +66,16 @@ display: flex;
   text-align: center;
   padding: 0 1rem;
   position: relative;
-
-  .delivery_pics {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
-    width: 100px;
-    height: 100px;
-  }
 }
+
+.delivery_pics {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  width: 100px;
+  height: 100px;
+}
+
 
 
 
