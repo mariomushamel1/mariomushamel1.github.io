@@ -32,7 +32,7 @@
   
   display: flex;
   align-items: left;
-  justify-content: first baseline;
+  justify-content: flex-start;
   flex-flow: column;
   text-align: left;
   padding: 0 1rem;
