@@ -1,5 +1,5 @@
 .home{
-  
+
   background-image: url("https://mariomushamel1.github.io/images/home_background.jpg");
   background-size: cover;
   background-size: cover;
@@ -68,13 +68,7 @@ display: flex;
   position: relative;
 }
 
-.delivery_pics {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 10px;
-  width: 100px;
-  height: 100px;
-}
+
 
 
 
