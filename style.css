@@ -34,7 +34,7 @@ display: flex;
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    text-align: center;
+    text-align: left;
     padding: 0 1rem;
     position: relative;
 }
