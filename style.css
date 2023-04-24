@@ -28,12 +28,12 @@
   background-size: cover;
   background-size: cover;
   height: 100vh; 
-   
-  
+}
+  .text{
   display: flex;
   align-items: left;
-  justify-content: flex-start;
-  flex-flow: column;
+  justify-content: center;
+  flex-flow: row;
   text-align: left;
   padding: 0 1rem;
   position: relative;
