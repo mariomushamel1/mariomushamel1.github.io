@@ -99,6 +99,11 @@ h3{
     position: relative;
 }
 
+.map_img {
+  height: 125px;
+  
+}
+
 .container {
   font-family: Snell Roundhand;
   color: red;
@@ -138,3 +143,4 @@ nav ul li a:hover {
   background-color: #333;
   color: #fff;
 }
+
