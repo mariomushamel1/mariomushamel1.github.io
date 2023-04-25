@@ -85,7 +85,7 @@ h3{
 }
 
 .contact{
-  background-image: url("https://mariomushamel1.github.io/images/contact_background.jpg");
+  background-image: url("https://mariomushamel1.github.io/images/contact_pic.jpg");
   background-size: cover;
   background-size: cover;
   height: 100vh; 
@@ -103,7 +103,7 @@ h3{
 height: 200px;
 float: inline-end;
   margin-left: 130%;
-  margin-bottom: -40%;
+  margin-bottom: -50%;
   
 }
 
