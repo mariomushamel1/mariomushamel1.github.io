@@ -100,9 +100,13 @@ h3{
 }
 
 .map_img {
-height: 125px;
+height: 200px;
+float: inline-end;
+  margin-left: 130%;
+  margin-bottom: -40%;
   
 }
+
 
 .container {
   font-family: Snell Roundhand;
