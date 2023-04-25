@@ -84,6 +84,22 @@ h3{
   font-size: 15px;
 }
 
+h4{
+  font-size: 40px;
+  height: 200px;
+  float: inline-end;
+  margin-right: 70%;
+  margin-top: 20%;
+}
+
+h5{
+  font-size: 20px;
+  margin-right: 60%;
+  margin-left: 5%;
+  margin-bottom: 20%;
+
+}
+
 .contact{
   background-image: url("images/contact_background2.jpg");
   background-size: cover;
