@@ -1,29 +1,24 @@
 .home{
-
   background-image: url("https://mariomushamel1.github.io/images/home_background.jpg");
   background-size: cover;
   background-size: cover;
   height: 100vh;
   
   display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column;
-    text-align: center;
-    padding: 0 1rem;
-    position: relative;
-  
- 
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  text-align: center;
+  padding: 0 1rem;
+  position: relative;
 }
 
-.text-box {
+.text-box{
   background-color: white;
   padding: 1rem;
   border-radius: 5px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-  }
-
-  
+}
 
 .about{
   background-image: url("https://mariomushamel1.github.io/images/about_picture2.jpg");
@@ -44,7 +39,6 @@
   background-size: cover;
   height: 100vh; 
   
-
   display: flex;
   align-items: center;
   justify-content: center;
@@ -54,8 +48,15 @@
   position: relative;
 }
 
+.service_img {
+  height: 200px;
+  margin-right: 149px;
+  margin-left: 149px;
+  margin-top: auto;
+  margin-bottom: 200px;
+}
+
 .delivery {
-  
   background-image: url("https://mariomushamel1.github.io/images/delivery_background.jpg");
   background-size: cover;
   height: 100vh; 
@@ -69,7 +70,7 @@
 }
 
 .delivery_img {
-height: 125px;
+  height: 125px;
 }
 
 h2 {
@@ -98,7 +99,6 @@ h5{
   margin-left: 5%;
   margin-top: 10px;
   margin-bottom: 20%;
-
 }
 
 .contact{
@@ -108,22 +108,21 @@ h5{
   height: 100vh; 
   
   display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column;
-    text-align: center;
-    padding: 0 1rem;
-    position: relative;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  text-align: center;
+  padding: 0 1rem;
+  position: relative;
 }
 
 .map_img {
-height: 200px;
-float: inline-end;
+  height: 200px;
+  float: inline-end;
   margin-left: 130%;
   margin-bottom: -50%;
-  
-}
 
+}
 
 .container {
   font-family: Snell Roundhand;
